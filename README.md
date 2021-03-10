@@ -1,2 +1,2 @@
-# ManageComponentTreePractice
+# ManageComponentTree
 Created with CodeSandbox
